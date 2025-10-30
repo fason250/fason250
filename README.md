@@ -1,8 +1,8 @@
-Hey, I'm Fason 👋
+## Hey, I'm Fason 👋
 
 Full-Stack Mobile Developer based in Kigali, Rwanda. I build mobile and web applications that people actually want to use.
 
-What I Do
+## What I Do
 
 I specialize in full-stack mobile development, working across the entire stack from backend APIs to polished mobile interfaces. My focus is on building scalable solutions that solve real problems.
 Core Skills:
