@@ -5,12 +5,13 @@ Full-Stack Mobile Developer based in Kigali, Rwanda. I build mobile and web appl
 ## What I Do
 
 I specialize in full-stack mobile development, working across the entire stack from backend APIs to polished mobile interfaces. My focus is on building scalable solutions that solve real problems.
-Core Skills:
 
-Mobile Development with React Native & Expo, Flutter
-Backend APIs using NestJS, Express, and Flask
-Database design and optimization (MySQL, PostgreSQL, MongoDB)
-Cloud deployment and DevOps workflows
+## Core Skills:
+
+- Mobile Development with React Native & Expo, Flutter
+- Backend APIs using NestJS, Express, and Flask
+- Database design and optimization (MySQL, PostgreSQL, MongoDB)
+- Cloud deployment and DevOps workflows
 
 
 ## 🌐 Socials:
@@ -38,5 +39,3 @@ Cloud deployment and DevOps workflows
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeyfason                ) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
