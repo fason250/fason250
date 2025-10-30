@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm a Full-Stack Mobile Developer who’s addicted to crafting clean, scalable, and impactful digital experiences.<br>I don’t just write code I architect solutions. Whether it’s building APIs, designing smooth mobile UIs, or connecting services with the perfect tools, I make ideas come to life 💡.<br><br>💻 I live in VS Code, love a good terminal session, and believe great devs don’t just learn frameworks — they master ecosystems.<br><br>🛠️ From backend to frontend, databases to deployments — I pick the right tools and make them work like magic.<br><br>“Code is my canvas, and every app is a masterpiece in progress.” 🎨<br><br><br>🧠 Keywords That Represent Me:<br><br>🚀 Full-Stack Engineer<br><br>📱 Mobile-First Thinker (React Native | Expo)<br><br>⚙️ Backend Boss (NestJS | Prisma | MySQL)<br><br>🧩 API Crafter | DevOps Explorer | UI Tweaker<br><br>🔗 Helps you integrate AI into your own projects (e.g., chatbots, generators, recommendation systems)<br><br>💡 Indicates you’re comfortable with modern workflows (like GitHub Copilot, ChatGPT, Midjourney, etc.)<br><br>🔥 Passionate, Product-Driven, and Always Shipping
+Hey, I'm Fason 👋
+
+Full-Stack Mobile Developer based in Kigali, Rwanda. I build mobile and web applications that people actually want to use.
+
+What I Do
+
+I specialize in full-stack mobile development, working across the entire stack from backend APIs to polished mobile interfaces. My focus is on building scalable solutions that solve real problems.
+Core Skills:
+
+Mobile Development with React Native & Expo, Flutter
+Backend APIs using NestJS, Express, and Flask
+Database design and optimization (MySQL, PostgreSQL, MongoDB)
+Cloud deployment and DevOps workflows
 
 
 ## 🌐 Socials:
