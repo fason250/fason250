@@ -36,7 +36,7 @@ A driving school and road code learning platform for the Rwandan market.
 Built the full platform — course structure, progress tracking, exam 
 simulation. Most people learning to drive here don't have easy access to 
 structured materials. This closes that gap.
-`React` `Express` `PostgreSql`  `React Native` `Expo`
+`React` `Express` `PostgreSQL`  `React Native` `Expo`
 
 ### McGhub Rwanda
 Car rental and auto parts marketplace.
