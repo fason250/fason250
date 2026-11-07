@@ -1,74 +1,37 @@
-# Fason
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Fabrice Nsanzimana · Software Engineer" src="./assets/header-light.svg">
+</picture>
 
-Full-stack mobile developer based in Kigali, Rwanda.
+`software engineer · kigali → worldwide`
 
-I don't start with code. I start with paper — understanding the problem, 
-mapping the flows, questioning what actually needs to exist before anything 
-gets built. That habit has saved me more time than any tool or framework.
+I build the software businesses actually run on: payroll platforms, AI voice agents, offline-first point-of-sale, and the quiet infrastructure behind them.
 
-Currently freelancing across mobile, web, and backend — working on client 
-products and building my own.
-
----
-
-## Projects I'm Building
-
-### Tandem
-A mobile platform for people who build things together.
-Most collaboration tools are built for corporate teams. Tandem is for 
-communities — groups, collectives, local teams — where coordination 
-happens across people who don't sit in the same office.
-Still early. The architecture is solid, the problem is real.
-`React Native` `NestJS` `PostgreSQL`
-
-### Forge — Daily Stoic
-A mobile app for daily stoic practice.
-I built this because the existing apps in this space feel like productivity 
-tools wearing a philosophy costume. Forge is quieter and more intentional.
-`React Native` `Expo`
+**now** · Software Engineer at [Invano Labs](https://www.invanolabs.com/), shipping [Shufa](https://shufa-brown.vercel.app/) — workforce payroll that turns attendance into sealed payout lists and mobile-money payments with proof of every franc. Before that: lead engineer, then interim COO, at Switchiify.
 
 ---
 
-## Client Work
+### selected work
 
-### Amategeko.com
-A driving school and road code learning platform for the Rwandan market.
-Built the full platform — course structure, progress tracking, exam 
-simulation. Most people learning to drive here don't have easy access to 
-structured materials. This closes that gap.
-`React` `Express` `PostgreSQL`  `React Native` `Expo`
+- [Shufa](https://shufa-brown.vercel.app/) · workforce payroll for Rwanda · sealed payouts · MoMo
+- [Iwange](https://iwange.com/) · offline-first inventory and POS · live in ten shops
+- [Amategeko](https://amategeko.rw) · Rwanda's online driving-rules school · MoMo payments
+- [BridgeBelt](https://bridgebelt.com/) · AI voice-agent call center for a U.S. client · Vapi + Twilio
+- [Invano Labs](https://www.invanolabs.com/) · the studio's own site, designed and built in-house
 
-### McGhub Rwanda
-Car rental and auto parts marketplace.
-Rwanda's car market runs largely on trust networks and phone calls. McGhub 
-brings that inventory online — rentals, parts, listings — in a way that 
-fits how people here actually search and buy.
-`React Native` `Express` `PostgreSQL`
+### stack
 
----
+`TypeScript` · `React / Next.js` · `React Native / Expo` · `NestJS / Node.js` · `Flutter` · `PostgreSQL / MongoDB` · `Vapi / AI agents` · `Stripe / MoMo` · `Docker / CI`
 
-## How I Work
+### reach
 
-I freelance, which means I'm accountable for the whole thing — scoping, 
-architecture, delivery, and what happens after launch. I've learned that 
-the most expensive mistakes happen before the first line of code, so I 
-slow down at the beginning to go faster at the end.
-
-I also contribute to open source when I find something I can make 
-meaningfully better. I don't submit patches for the sake of it.
+- portfolio · **[fason.dev](https://fason.dev)** — the snake in the background plays itself; arrow keys take over
+- linkedin · [/in/nsanzimana-fabrice](https://www.linkedin.com/in/nsanzimana-fabrice)
+- whatsapp · [+250 792 330 514](https://wa.me/250792330514)
+- email · `fabrice.nsanzimana2004@gmail.com`
+- alt account · [@jeyfason](https://github.com/jeyfason)
 
 ---
 
-## Stack
-
-**Mobile** — React Native, Expo, Flutter  
-**Backend** — NestJS, Express, Flask  
-**Data** — PostgreSQL, MySQL, MongoDB, Redis, Prisma  
-**Infra** — Docker, Kubernetes, Vercel  
-
----
-
-## Get in Touch
-
-[jeyfason58@gmail.com](mailto:jeyfason58@gmail.com)
-[@jey_fason](https://instagram.com/jey_fason) on Instagram
+*open to remote and full-time roles · replies within a day*
