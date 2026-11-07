@@ -8,7 +8,7 @@
 
 I build the software businesses actually run on: payroll platforms, AI voice agents, offline-first point-of-sale, and the quiet infrastructure behind them.
 
-**now** · Software Engineer at [Invano Labs](https://www.invanolabs.com/), shipping [Shufa](https://shufa-brown.vercel.app/) — workforce payroll that turns attendance into sealed payout lists and mobile-money payments with proof of every franc. Before that: lead engineer, then interim COO, at Switchiify.
+**now** · Software Engineer at [Invano Labs](https://www.invanolabs.com/), shipping [Shufa](https://shufa-brown.vercel.app/), workforce payroll that turns attendance into sealed payout lists and mobile-money payments with proof of every franc. Before that: lead engineer, then interim COO, at Switchiify.
 
 ---
 
@@ -22,11 +22,13 @@ I build the software businesses actually run on: payroll platforms, AI voice age
 
 ### stack
 
-`TypeScript` · `React / Next.js` · `React Native / Expo` · `NestJS / Node.js` · `Flutter` · `PostgreSQL / MongoDB` · `Vapi / AI agents` · `Stripe / MoMo` · `Docker / CI`
+![TypeScript](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,flutter,postgres,mongodb,docker,git&perline=10)
+
+`Vapi / AI agents` · `Stripe` · `MTN MoMo` · `REST APIs` · `CI/CD`
 
 ### reach
 
-- portfolio · **[fason.dev](https://fason.dev)** — the snake in the background plays itself; arrow keys take over
+- portfolio · **[fason.dev](https://fason.dev)**
 - linkedin · [/in/nsanzimana-fabrice](https://www.linkedin.com/in/nsanzimana-fabrice)
 - whatsapp · [+250 792 330 514](https://wa.me/250792330514)
 - email · `fabrice.nsanzimana2004@gmail.com`
